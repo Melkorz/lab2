@@ -16,3 +16,6 @@ rootProject.name = "firstproject"
 include ':app'
 include ':myapplication'
 include ':basicviews'
+include ':pk22'
+include ':layoutfiles'
+include ':xml'
